@@ -1,1 +1,2 @@
-# it228-Project-finals
+"IUIS"
+This project  focuses only on the mobile app design of IUIS (Integrated University Info System)  of West Visayas State University. This comprehensive student information system ables to directly access all aspects of a student’s academic progress through an online interface embedded in the college’s website (https://wvsu.edu.ph/). The system consists of student’s profile, grades, account details, schedule, and assessment information. 
